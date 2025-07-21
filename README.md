@@ -13,7 +13,7 @@
 ---
 
 ## 🧰 Skills
-- 💻 Languages: **Python**, **Java**, **Kotlin**, **JavaScript**, **HTML/CSS**
+- 💻 Languages: **JavaScript**, **HTML/CSS**, **Python**, **Java**, **Kotlin**
 - 🌐 Web: **Streamlit**, **Bootstrap**, **OpenAI GPT API**
 - 📱 Mobile: **Android (Jetpack, Firebase)**
 - ☁️ Cloud & DevOps: **AWS**, **GCP**, **Kubernetes**, **Docker**, **Terraform**
@@ -21,9 +21,9 @@
 ---
 
 ## 🚀 Featured Projects
-✨ [**CareTogether**](#) – Android app connecting donors & orphanages  
-✨ [**AI Job Application Assistant**](#) – Streamlit + GPT-based resume/cover letter generator  
 ✨ [**UniCart**](https://kiranaditya-ulasa.github.io/uniCart-X/) – E-commerce platform with Supabase backend  
+✨ **CareTogether** – Android app connecting donors & orphanages  
+✨ **AI Job Application Assistant** – Streamlit + GPT-based resume/cover letter generator  
 
 ---
 
